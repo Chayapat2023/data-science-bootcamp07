@@ -5,4 +5,4 @@ pa2 = qplot(mpg, data=mtcars, geom="histogram")
 
 pa1; pa2
 
-print("done!")
+print("done! Today is correct")
